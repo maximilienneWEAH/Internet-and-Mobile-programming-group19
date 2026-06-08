@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse",
+  "description": "Real-Time Quality of Experience (QoE) and Quality of Service (QoS) platform for mobile net subscribers in Cameroon",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
