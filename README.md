@@ -34,7 +34,7 @@
 * Interactive charts and visualizations
 * Historical data tracking
 
----
+ 
 
 ## 🏗️ System Architecture
 
@@ -51,7 +51,7 @@ Operator   Regulator
 Dashboard  Dashboard
 ```
 
----
+ 
 
 ## 🛠️ Technology Stack
 
@@ -78,7 +78,7 @@ Dashboard  Dashboard
 * Custom Analytics Dashboard
 * Charts and Performance Metrics
 
----
+ 
 
 ## 📊 QoE Metrics Monitored
 
@@ -91,7 +91,7 @@ The platform evaluates network quality using:
 * Network Availability
 * Overall QoE Score
 
----
+ 
 
 ## 📂 Project Structure
 
@@ -112,7 +112,7 @@ NetPulse/
 └── README.md
 ```
 
----
+ 
 
 ## ⚙️ Installation
 
@@ -146,7 +146,7 @@ Start the backend server:
 npm run server
 ```
 
----
+ 
 
 ## 🎯 Project Objectives
 
@@ -156,8 +156,6 @@ npm run server
 * Assist regulators in monitoring service quality.
 * Provide data-driven insights for improving customer experience.
 
----
-
 ## 👥 Development Team
 
 **Group 19 – Internet and Mobile Programming**
@@ -166,7 +164,6 @@ Faculty of Engineering and Technology
 
 University Project – 2026
 
----
 
 ## 📄 License
 
